@@ -8,7 +8,11 @@ const Training = () => {
     return (
         <div>
             <Navbar />
-            <HeroImage heading="Training" text="Canva Training outdoors" />
+            <HeroImage
+                heading="Learn to paint like a pro"
+                text="Join our outdoor painting classes"
+            />
+
             <Trainings />
             <Footer />
         </div>

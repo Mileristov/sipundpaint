@@ -33,8 +33,8 @@ const Footer = () => {
                                     color: "#ffffff",
                                     marginRight: "2rem",
                                 }}
-                            />{" "}
-                            Phone number:
+                            />
+                            Phone number: +49157893934
                         </h4>
                     </div>
                     <div className="email">
@@ -46,13 +46,16 @@ const Footer = () => {
                                     marginRight: "2rem",
                                 }}
                             />
-                            Sip Und Paint with Nosie!
+                            Siupundpaint@gmail.com
                         </h4>
                     </div>
                 </div>
                 <div className="right">
                     <h4>About the event</h4>
-                    <p>I dont know what to write here</p>
+                    <p>
+                        Unleash your creativity in the great outdoors with our
+                        painting classes.
+                    </p>
                     <div className="social">
                         <FaFacebook
                             size={30}
