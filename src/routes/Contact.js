@@ -9,8 +9,8 @@ const Contact = () => {
         <div>
             <Navbar />
             <HeroImage
-                heading="CONTACT US"
-                text="Contact Sip Und Paint with Nosie!"
+                heading="Get in Touch"
+                text="We'd love to hear from you! Ask us anything about our painting classes."
             />
             <Form />
             <Footer />
